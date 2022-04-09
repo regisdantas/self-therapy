@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "self-therapy-app",
+    "slug": "self-therapy-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "self-therapy-app"
+}
